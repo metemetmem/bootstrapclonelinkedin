@@ -1,2 +1,2 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+# Bootstrap Clone Linkedin
+[Patika.dev](https://app.patika.dev/metemetmem)
